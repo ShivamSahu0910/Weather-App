@@ -1,0 +1,10 @@
+  
+.App {
+  background-color: #202020;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: inherit;
+  align-items: center;
+  justify-content: center;
+  color: black;
+}
